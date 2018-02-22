@@ -23,4 +23,4 @@
 ![alt-text](seven.png)
 
 # renting 
-![alt-text](one.png)
+![alt-text](eight.png)
